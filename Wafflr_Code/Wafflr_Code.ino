@@ -1,7 +1,7 @@
 /*
  * 
  * Proect Name: Wafflr: Food Automation system 
- * Author: Titiksha Wagh
+ * Authors: Titiksha Wagh, Ajay Krishna
  * Intellectual Property of lvlAlpha
  *
  *
